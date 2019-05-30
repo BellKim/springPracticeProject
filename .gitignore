@@ -40,6 +40,8 @@ local.properties
 .settings/
 .loadpath
 .recommenders
+*.MF
+*.properties
 
 # External tool builders
 .externalToolBuilders/
