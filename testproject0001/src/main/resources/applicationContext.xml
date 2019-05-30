@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 어플리켄이션 빈스 부분은 어느정도 정해져 있기 때문에 재활용 해서 사용한다.  -->
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans 
+ 		http://www.springframework.org/schema/beans/spring-beans.xsd">
+ 		<bean id="tranp" class="testproject0001.TransportationWalk"/>
+	
+</beans>
