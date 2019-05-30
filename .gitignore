@@ -41,7 +41,9 @@ local.properties
 .loadpath
 .recommenders
 *.MF
+MANIFEST.MF
 *.properties
+
 
 # External tool builders
 .externalToolBuilders/
